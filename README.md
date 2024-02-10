@@ -2,11 +2,9 @@
 
 # Projet Final
 
-Projet final de la formation Data analyst à JEDHA BOOTCAMP
+Projet final de la formation Data analyst à [JEDHA BOOTCAMP](https://www.jedha.co/formations/data-analysis-fullstack)
 
-Présentation PPT : Vous pouvez accéder à la présentation (rajouter le lien)
-
-Lien vers GitHub
+Présentation PPT : Vous pouvez accéder à la présentation [lien](https://www.canva.com/design/DAF7L7DY2mw/2q4zZ9lGgWQL4ydXP4YGDA/view?utm_content=DAF7L7DY2mw&utm_campaign=designshare&utm_medium=link&utm_source=editor#24)
 
 ## Titre du Projet
 
@@ -61,12 +59,11 @@ Les ensembles de données de la World Bank ont été importés dans Python via P
 
 Pour approfondir notre compréhension des données, nous avons utilisé la plateforme d'analyse avancée Dataiku. Nous avons créé deux matrices de corrélation pour identifier les caractéristiques les plus influentes sur les taux de natalité et de mortalité. L'analyse de ces matrices a révélé des tendances significatives et des corrélations pertinentes entre les indicateurs. Ensuite, nous avons construit des modèles de régression linéaire pour le taux de natalité et de mortalité, fournissant des informations cruciales sur l'impact des caractéristiques. Cette approche a permis d'identifier les features les plus importantes, affinant notre compréhension des facteurs influençant la démographie mondiale de 2000 à 2021. Cette méthodologie, combinant analyse exploratoire et modélisation, renforce notre capacité à extraire des informations pertinentes et à éclairer les dynamiques complexes liées à la natalité et à la mortalité à l'échelle mondiale.
 
-![Alt text](image-1.png)
+![Alt text](https://github.com/DimitriKneur/Demoday/blob/main/Presentation/dataiku_flow.png)
 
 ### Visualisations PowerBI
 
 Un tableau de bord interactif construit dans PowerBI, visant à visualiser et analyser l'évolution de la population mondiale au fil des années, avec un focus particulier sur les données par continent. Le tableau de bord est conçu pour offrir une compréhension approfondie des tendances démographiques en relation avec différents indicateurs.
-Lien vers le Deashbord : (rajouter le lien)
 
 ### Contenu du Tableau de Bord
 
@@ -86,17 +83,14 @@ Le tableau de bord propose des graphiques spécifiques mettant en évidence le l
 
 En plus des analyses des données, le tableau de bord inclut des graphiques interactifs visant à fournir des recommandations basées sur les tendances observées. Ces recommandations peuvent aider à orienter les prises de décision et les actions futures.
 
-### Recommandations
-
-A voir avec Dimitri
 
 ### Comment Exécuter le Code
 
-Le script (merged_dataset_cleaning.ipynb) rassemble l'ensemble des transformations effectués sur les données.
+Les deux scripts [merged_dataset_cleaning.ipynb](https://github.com/DimitriKneur/Demoday/blob/main/3_Data_cleaning_on_merged_dataset/merged_dataset_cleaning.ipynb) et [217_countries_population.ipynb](https://github.com/DimitriKneur/Demoday/blob/main/3_Data_cleaning_on_merged_dataset/217_countries_population.ipynb)rassemblent l'ensemble des transformations effectués sur les données.
 
 ### Auteurs
 
 *  Nabil LALLAOUI
-*  Célia XU
+*  Célia-Sijing XU
 *  Dimitri KNEUR
 *  Nigel ZANNOU
