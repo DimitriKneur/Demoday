@@ -4,7 +4,7 @@
 
 Projet final de la formation Data analyst à [JEDHA BOOTCAMP](https://www.jedha.co/formations/data-analysis-fullstack)
 
-Présentation PPT : Vous pouvez accéder à la présentation [lien](https://www.canva.com/design/DAF7L7DY2mw/2q4zZ9lGgWQL4ydXP4YGDA/view?utm_content=DAF7L7DY2mw&utm_campaign=designshare&utm_medium=link&utm_source=editor#24)
+Présentation PPT : Vous pouvez accéder à la présentation [Le lien](https://www.canva.com/design/DAF7L7DY2mw/2q4zZ9lGgWQL4ydXP4YGDA/view?utm_content=DAF7L7DY2mw&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ## Titre du Projet
 
@@ -63,7 +63,7 @@ Pour approfondir notre compréhension des données, nous avons utilisé la plate
 
 ### Visualisations PowerBI
 
-Un tableau de bord interactif construit dans PowerBI, visant à visualiser et analyser l'évolution de la population mondiale au fil des années, avec un focus particulier sur les données par continent. Le tableau de bord est conçu pour offrir une compréhension approfondie des tendances démographiques en relation avec différents indicateurs.
+Un tableau de bord interactif construit dans PowerBI, visant à visualiser et analyser l'évolution de la population mondiale au fil des années, avec un focus particulier sur les données par continent. Le tableau de bord est conçu pour offrir une compréhension approfondie des tendances démographiques en relation avec différents indicateurs. [Presentation_demoday_v5_Dimitri_X_Celia.pbix](https://github.com/DimitriKneur/Demoday/blob/main/4_Data_Viz/Presentation_demoday_v5_Dimitri_X_Celia.pbix)
 
 ### Contenu du Tableau de Bord
 
@@ -86,7 +86,7 @@ En plus des analyses des données, le tableau de bord inclut des graphiques inte
 
 ### Comment Exécuter le Code
 
-Les deux scripts [merged_dataset_cleaning.ipynb](https://github.com/DimitriKneur/Demoday/blob/main/3_Data_cleaning_on_merged_dataset/merged_dataset_cleaning.ipynb) et [217_countries_population.ipynb](https://github.com/DimitriKneur/Demoday/blob/main/3_Data_cleaning_on_merged_dataset/217_countries_population.ipynb)rassemblent l'ensemble des transformations effectués sur les données.
+Les deux scripts [merged_dataset_cleaning.ipynb](https://github.com/DimitriKneur/Demoday/blob/main/3_Data_cleaning_on_merged_dataset/merged_dataset_cleaning.ipynb) et [217_countries_population.ipynb](https://github.com/DimitriKneur/Demoday/blob/main/3_Data_cleaning_on_merged_dataset/217_countries_population.ipynb)  rassemblent l'ensemble des transformations effectués sur les données.
 
 ### Auteurs
 
